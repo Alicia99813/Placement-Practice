@@ -1,0 +1,13 @@
+{
+  "id" : "https://Alicia99813.github.io/Placement-Practice/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Alicia99813/Placement-Practice project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Alicia99813.github.io/Placement-Practice/manifests/Sumerian_clay_tablet.json",
+    "label" : "Sumerian clay tablet (MS Doc. 829)"
+  } ]
+}
