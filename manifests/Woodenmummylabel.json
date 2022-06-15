@@ -1,0 +1,86 @@
+{
+  "viewingDirection" : "left-to-right",
+  "metadata" : [ {
+    "label" : "Origin Place",
+    "value" : "Achmim, Egypt"
+  }, {
+    "label" : "Provenance",
+    "value" : "Given to the Library in 1890 by the Rev. Greville Chester (1830-92)."
+  }, {
+    "label" : "Physical Location",
+    "value" : "Cambridge University Library"
+  }, {
+    "label" : "Funding",
+    "value" : ""
+  }, {
+    "label" : "Abstract",
+    "value" : "<p style='text-align: justify;'>On one side there is Greek text incised into the wood and on the other are two lines of text written in ink in Demotic Egyptian. Mummy labels were common funerary objects in the Graeco-Roman era.</p><p style='text-align: justify;'> <iframe width=\"600\" height=\"480\" src=\"https://sketchfab.com/models/f1fa110708634076bf73ff79cc01e17d/embed\" frameborder=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" onmousewheel=\"\"></iframe> <br /><a target='_blank' class='externalLink' href='https://sketchfab.com/models/f1fa110708634076bf73ff79cc01e17d?utm_medium=embed&utm_source=website&utm_campain=share-popup'>Wooden mummy label</a> by <a target='_blank' class='externalLink' href='https://sketchfab.com/CamDigLib?utm_medium=embed&utm_source=website&utm_campain=share-popup'>Cambridge Digital Library</a> on <a target='_blank' class='externalLink' href='https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup'>Sketchfab</a></p><p style='text-align: justify;'>Bodies were regularly transported from the home to the cemetery, or, if the person died away from home, back to their village, identified with a label such as this one. The labels, made from wood or stone, provided details such as name, age and home-town of the deceased. For poorer people the labels replaced traditional stone stelae. The Greek text translates as: ‘Haryotes, son of Hatres, whose mother is Thermuthis, from Nesos Apollinariados, Year 18, Pharmouthi 23’. This example was given to the Library in 1890 by the Rev. Greville Chester (1830-92), collector of antiquities and friend of Sir Flinders Petrie.</p>"
+  }, {
+    "label" : "Date of Creation",
+    "value" : "ca 210 CE"
+  }, {
+    "label" : "Title",
+    "value" : "Wooden mummy label"
+  }, {
+    "label" : "Author(s) of the Record",
+    "value" : "CUL"
+  }, {
+    "label" : "Material",
+    "value" : "Wood"
+  }, {
+    "label" : "Classmark",
+    "value" : "MS Ostracon.141"
+  }, {
+    "label" : "Donor(s)",
+    "value" : "Chester, Greville John, 1830-1892"
+  }, {
+    "label" : "Subject(s)",
+    "value" : "Egypt, Ancient"
+  }, {
+    "label" : "Language(s)",
+    "value" : "Greek and Demotic Egyptian"
+  } ],
+  "@type" : "sc:Manifest",
+  "attribution" : "Provided by Cambridge University Library. Zooming image © Cambridge University Library, All rights reserved.  Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)   This metadata is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.",
+  "structures" : [ {
+    "canvases" : [ "https://cudl.lib.cam.ac.uk/iiif/MS-OSTRACON-00141/canvas/1", "https://cudl.lib.cam.ac.uk/iiif/MS-OSTRACON-00141/canvas/2" ],
+    "@type" : "sc:Range",
+    "@id" : "https://cudl.lib.cam.ac.uk/iiif/MS-OSTRACON-00141/range/DOCUMENT",
+    "label" : "Wooden mummy label"
+  } ],
+  "description" : "<p style='text-align: justify;'>On one side there is Greek text incised into the wood and on the other are two lines of text written in ink in Demotic Egyptian. Mummy labels were common funerary objects in the Graeco-Roman era.</p><p style='text-align: justify;'> <iframe width=\"600\" height=\"480\" src=\"https://sketchfab.com/models/f1fa110708634076bf73ff79cc01e17d/embed\" frameborder=\"0\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" onmousewheel=\"\"></iframe> <br /><a target='_blank' class='externalLink' href='https://sketchfab.com/models/f1fa110708634076bf73ff79cc01e17d?utm_medium=embed&utm_source=website&utm_campain=share-popup'>Wooden mummy label</a> by <a target='_blank' class='externalLink' href='https://sketchfab.com/CamDigLib?utm_medium=embed&utm_source=website&utm_campain=share-popup'>Cambridge Digital Library</a> on <a target='_blank' class='externalLink' href='https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup'>Sketchfab</a></p><p style='text-align: justify;'>Bodies were regularly transported from the home to the cemetery, or, if the person died away from home, back to their village, identified with a label such as this one. The labels, made from wood or stone, provided details such as name, age and home-town of the deceased. For poorer people the labels replaced traditional stone stelae. The Greek text translates as: ‘Haryotes, son of Hatres, whose mother is Thermuthis, from Nesos Apollinariados, Year 18, Pharmouthi 23’. This example was given to the Library in 1890 by the Rev. Greville Chester (1830-92), collector of antiquities and friend of Sir Flinders Petrie.</p>",
+  "logo" : "https://cudl.lib.cam.ac.uk/img/cu_logo.png",
+  "@id" : "https://Alicia99813.github.io/Placement-Practice/manifests/Woodenmummylabel.json",
+  "label" : "Wooden mummy label (MS Ostracon.141)",
+  "sequences" : [ {
+    "canvases" : [ {
+      "images" : [ {
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "@id" : "https://images.lib.cam.ac.uk/iiif/MS-OSTRACON-00141-000-00001.jp2",
+            "@context" : "http://iiif.io/api/image/2/context.json"
+          },
+          "format" : "image/jpg",
+          "width" : 6312,
+          "@id" : "https://images.lib.cam.ac.uk/iiif/MS-OSTRACON-00141-000-00001.jp2",
+          "height" : 4089
+        },
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://cudl.lib.cam.ac.uk/iiif/MS-OSTRACON-00141/canvas/1"
+      } ],
+      "@type" : "sc:Canvas",
+      "width" : 6312,
+      "@id" : "https://cudl.lib.cam.ac.uk/iiif/MS-OSTRACON-00141/canvas/1",
+      "label" : "1",
+      "height" : 4089
+    } ],
+    "@type" : "sc:Sequence",
+    "@id" : "https://cudl.lib.cam.ac.uk/iiif/MS-OSTRACON-00141/sequence",
+    "label" : "Current Page Order"
+  } ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "seeAlso" : "https://services.prod.env.cudl.link/v1/metadata/tei/MS-OSTRACON-00141/"
+}
