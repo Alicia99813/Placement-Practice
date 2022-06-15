@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ ],
+  "otherContent" : [ "https://Alicia99813.github.io/Placement-Practice/annotations/A1.json" ],
   "@id" : "https://Alicia99813.github.io/Placement-Practice/annotations/collection.json",
   "label" : "All annotations loaded in Alicia99813/Placement-Practice project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
