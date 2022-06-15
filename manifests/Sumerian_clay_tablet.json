@@ -77,7 +77,7 @@
       
         	"otherContent": [{
                              	"@type": "sc:AnnotationList",
-                             	"@id": "https://alicia99813.github.io/Placement-Practice/annotations/A1.json"
+                             	"@id": "https://raw.githubusercontent.com/Alicia99813/Placement-Practice/main/annotations/A1.json"
 
         }],
 
