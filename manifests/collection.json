@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Alicia99813.github.io/Placement-Practice/manifests/Aramaic_ostracon.json",
     "label" : "Aramaic ostracon (Ostracon 131-133)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Alicia99813.github.io/Placement-Practice/manifests/Woodenmummylabel.json",
+    "label" : "Wooden mummy label (MS Ostracon.141)"
   } ]
 }
