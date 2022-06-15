@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Alicia99813.github.io/Placement-Practice/manifests/Sumerian_clay_tablet.json",
     "label" : "Sumerian clay tablet (MS Doc. 829)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Alicia99813.github.io/Placement-Practice/manifests/Aramaic_ostracon.json",
+    "label" : "Aramaic ostracon (Ostracon 131-133)"
   } ]
 }
